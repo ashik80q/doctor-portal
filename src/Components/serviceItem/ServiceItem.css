@@ -1,0 +1,14 @@
+.cp{
+    color:#10cfe5;
+}
+.fwb{
+    font-weight: 700;
+}
+.appointments-item-btn{
+    border-radius: 0;
+    color: #fff;
+    outline: 0;
+    background-image: linear-gradient(90deg,#19d3b0,#0fcfe8);
+    padding: 8px 15px;
+    text-transform: uppercase;
+}

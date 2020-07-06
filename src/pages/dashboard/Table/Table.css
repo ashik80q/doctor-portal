@@ -1,0 +1,7 @@
+.tableBtn {
+    border-radius: 0;
+    padding: 5px 20px;
+    color: #fff;
+    outline: 0;
+    background-image: linear-gradient(90deg,#19d3b0,#0fcfe8);
+}
